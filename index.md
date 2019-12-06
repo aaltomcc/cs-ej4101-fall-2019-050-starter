@@ -3,4 +3,4 @@ Welcome to the CS-E4101 Introduction to DevOps course! Or rather, my exercises f
 
 ### About ME...
 
-More on my thoughts about the course in [THE DIARY](cs-ej4101-fall-2019-050-starter/diary-050.md)
+More on my thoughts about the course in [THE DIARY](diary-050.md)
