@@ -1,0 +1,6 @@
+# Hello website
+Welcome to the CS-E4101 Introduction to DevOps course! Or rather, my exercises for the course... 
+
+## About ME...
+
+More on my thoughts about the course in [THE DIARY]()
