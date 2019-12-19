@@ -7,4 +7,4 @@ I am still willing to develop my skill set, in whichever direction needed, altho
 
 More on my thoughts about the course in [THE DIARY](diary-050.md)
 
-!(And Merry Christmas!](christmas-4697165_340.jpg)
+!(And Merry Christmas!](christmas-4697165__340.jpg)
