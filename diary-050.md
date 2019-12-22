@@ -7,4 +7,19 @@ My expectations for this particular course were mostly about getting to know the
 
 
 ### So what have I learned?
-Still learning... to put things in an unordered list?
+What I think I have learnt so far:
+  * DevOps is a culture of development
+  * Culture cannot be copied directly
+  * With a good culture, software developers are more satisfied at work
+  * Automation is your friend
+    * cost-effective
+    * no more human errors
+    * consistency
+    * enables faster delivery
+    * easier maintainability
+  * DevOps helps get functional software to the consumers faster
+    * The first version of the software works well enough 	
+    * Later versions are further improvements of earlier versions
+    * Further testing during use, feedback from customers
+    * Customers are more satisfied when small incremental changes improve the product without causing disruptions in service 
+
