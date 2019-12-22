@@ -23,3 +23,7 @@ What I think I have learnt so far:
     * Further testing during use, feedback from customers
     * Customers are more satisfied when small incremental changes improve the product without causing disruptions in service 
 
+Not having anyone to discuss things with or show me what to do made this a little bit more challenging than I had thought. Trying out everything by myself lead to a lot of trial and error moments and I have doubts whether I could do the exact same thing again without making the same mistakes all over again. Also, since I don’t know when I will use GitHub again, I don’t think I will remember anything I have done there.
+
+The Markdown tutorial was easy to do and easy to go back to when the exact number of underscores or asterisks escaped my mind. I also had to double check the different kinds of brackets and what is supposed to go in them when making links. I’m not sure whether I linked the image the way I was supposed to, though. Free images have to be downloaded instead of just linking to the URL (which makes sense, when you think about it). Since there weren’t specific instructions about to where to store the downloaded image and how to link to it, I searched for a “recipe” and used some trick that is supposedly not in the books. Hope it still works. It does show the image on my intro page, at least.
+
